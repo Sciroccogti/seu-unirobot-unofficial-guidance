@@ -20,7 +20,7 @@ This project contains a controller, some debug tools and some scripts for seu-ro
 * libboost-all-dev (`sudo apt-get install libboost-all-dev`)
 * freeglut3-dev
 * libv4l-dev (`sudo apt-get install libv4l-dev`)
-* MVSDK (library for our camera, STILL WONDERING HOW TO INSTALL)
+* MVSDK (library for our camera `sudo ./MVSDK/install.sh #at the project dir, and PLZ restart after installation`)
 * qt5-default (`sudo apt-get install qt5-default`)
 * astyle (`sudo apt-get install astyle`)
 
