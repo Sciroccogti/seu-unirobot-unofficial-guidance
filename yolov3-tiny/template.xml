@@ -1,0 +1,22 @@
+<annotation>
+  <folder>VOC2007</folder>
+  <filename>000002.jpg</filename>    //文件名  
+  <size>                            //图像尺寸（长宽以及通道数
+    <width>335</width>
+    <height>500</height>
+    <depth>3</depth>
+  </size>
+  <object>        //检测到的物体
+    <name>cat</name>    //物体类别
+    <pose>Unspecified</pose>    //拍摄角度
+    <truncated>0</truncated>    //是否被截断（0表示完整
+    <difficult>0</difficult>    //目标是否难以识别（0表示容易识别）
+    <bndbox>                    //bounding-box（包含左下角和右上角xy坐标）
+      <xmin>139</xmin>
+      <ymin>200</ymin>
+      <xmax>207</xmax>
+      <ymax>301</ymax>
+    </bndbox>
+  </object>
+</annotation>
+
