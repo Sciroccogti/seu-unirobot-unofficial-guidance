@@ -29,6 +29,6 @@ Not in image format：%%imagename  %%type  -1  -1  -1  -1
 
 我已将`export2txt.py`上传，请按需修改。
 
-然后需要调用`.../darknet/scripts/voc_label.py`。
+运行以上脚本后，需要调用`.../darknet/scripts/voc_label.py`。
 
 >   直接运行时，会出现`找不到xxx.jpg.xml`的报错，请自行在记载文件名的`.txt`文件内将所有后缀删除
