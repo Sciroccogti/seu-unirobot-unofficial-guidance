@@ -1,0 +1,3 @@
+/home/scirocco/seu-unirobot-unofficial-guidance/ball/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/scirocco/seu-unirobot-unofficial-guidance/ball/cmake-build-debug/CMakeFiles/ball.dir
+/home/scirocco/seu-unirobot-unofficial-guidance/ball/cmake-build-debug/CMakeFiles/edit_cache.dir

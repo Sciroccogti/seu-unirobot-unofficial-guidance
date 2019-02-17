@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/ball.dir/main.c.o  -o ball  -L/home/scirocco/seu-unirobot-unofficial-guidance/ball/. -Wl,-rpath,/home/scirocco/seu-unirobot-unofficial-guidance/ball/. -ldarknet 

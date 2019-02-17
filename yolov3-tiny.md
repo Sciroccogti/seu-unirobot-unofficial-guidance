@@ -1,4 +1,4 @@
-#   yolov3-tiny 训练笔记
+#   yolov3-tiny 笔记
 
 [教程0：官方教程](https://pjreddie.com/darknet/yolo/)
 
@@ -45,3 +45,9 @@ Not in image format：%%imagename  %%type  -1  -1  -1  -1
 `./darknet detector train cfg/voc.data cfg/yolov3-voc.cfg`
 
 >   建议在root下启动，避免出现`无法打开backup`的情况
+
+##  测试
+```Bash
+./darknet detector test cfg/voc.data cfg/my.cfg backup20190130/my_10000.weights data/images.jpg
+```
+

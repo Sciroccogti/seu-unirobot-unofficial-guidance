@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/darknet.h
+stdlib.h
+-
+stdio.h
+-
+string.h
+-
+pthread.h
+-
+cuda_runtime.h
+../include/cuda_runtime.h
+curand.h
+../include/curand.h
+cublas_v2.h
+../include/cublas_v2.h
+cudnn.h
+../include/cudnn.h
+
+/home/scirocco/seu-unirobot-unofficial-guidance/ball/main.c
+darknet.h
+/home/scirocco/seu-unirobot-unofficial-guidance/ball/darknet.h
+

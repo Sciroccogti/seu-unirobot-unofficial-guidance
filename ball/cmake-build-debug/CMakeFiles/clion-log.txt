@@ -1,0 +1,4 @@
+/home/scirocco/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/183.5153.40/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/scirocco/seu-unirobot-unofficial-guidance/ball
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/scirocco/seu-unirobot-unofficial-guidance/ball/cmake-build-debug
