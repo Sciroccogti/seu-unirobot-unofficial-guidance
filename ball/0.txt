@@ -1,0 +1,1 @@
+/home/scirocco/seu-unirobot-unofficial-guidance/ball/voc.data /home/scirocco/seu-unirobot-unofficial-guidance/ball/my.cfg /home/scirocco/seu-unirobot-unofficial-guidance/ball/1w.weights /home/scirocco/seu-unirobot-unofficial-guidance/ball/0.jpg

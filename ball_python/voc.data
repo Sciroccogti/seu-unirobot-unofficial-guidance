@@ -1,0 +1,6 @@
+classes = 1
+train  = /home/scirocco/darknet/scripts/2019_train.txt
+valid  = /home/scirocco/darknet/scripts/2019_test.txt
+names = /home/scirocco/darknet/data/voc.names
+backup = /home/scirocco/darknet/backup20190218
+
