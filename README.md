@@ -1,5 +1,5 @@
-# seu-unirobot-ghost
-东南大学RoboCup Kidsize 校队代码Ghost版本
+# seu-unirobot-unofficial-guidance
+东南大学RoboCup Kidsize 校队代码非官方使用指引
 
 This project contains a controller, some debug tools and some scripts for seu-robocup kidszie team. The controller and debug tools are written in c++. The scripts are written in python.
 
@@ -55,3 +55,7 @@ cd path/to/project
 ## Recommend IDE
 * Visual Studio Code(with c++ and python plugin)
 * Clion(maybe better with a cmake built-in)
+
+## Binocular Vision
+[小觅双目相机SDK文档](https://buildmedia.readthedocs.org/media/pdf/mynt-eye-s-sdk-docs-zh-cn/latest/mynt-eye-s-sdk-docs-zh-cn.pdf]
+
