@@ -59,3 +59,4 @@ cd path/to/project
 ## Binocular Vision
 [小觅双目相机SDK文档](https://buildmedia.readthedocs.org/media/pdf/mynt-eye-s-sdk-docs-zh-cn/latest/mynt-eye-s-sdk-docs-zh-cn.pdf)
 
+[MYNT® EYE S SDK ](https://mynt-eye-s-sdk.readthedocs.io/zh_CN/latest/index.html)
