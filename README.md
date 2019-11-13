@@ -60,3 +60,7 @@ cd path/to/project
 [小觅双目相机SDK文档](https://buildmedia.readthedocs.org/media/pdf/mynt-eye-s-sdk-docs-zh-cn/latest/mynt-eye-s-sdk-docs-zh-cn.pdf)
 
 [MYNT® EYE S SDK ](https://mynt-eye-s-sdk.readthedocs.io/zh_CN/latest/index.html)
+
+[小觅github](https://github.com/slightech/MYNT-EYE-S-SDK)
+
+[VINS-fusion](https://zhuanlan.zhihu.com/p/62988961)
